@@ -1,0 +1,31 @@
+{
+  "name": "fullstack-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjbeck/artemis_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjbeck/artemis_js/issues"
+  },
+  "homepage": "https://github.com/jjbeck/artemis_js#readme",
+  "devDependencies": {
+    "node-static": "^0.7.11"
+  },
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "bootstrap": "^4.5.3",
+    "browser-js": "^1.10.1",
+    "jquery": "^3.5.1",
+    "less": "^3.12.2",
+    "require": "^2.4.20",
+    "underscore": "^1.12.0"
+  }
+}
